@@ -1,0 +1,100 @@
+@import '~antd/dist/antd.css';
+@font-face {
+  font-family: 'GreycliffCF-Bold';
+  src: local('GreycliffCF-Bold'), url(./fonts/GreycliffCF-Bold.woff2) format('woff2');
+  src: local('GreycliffCF-Bold'), url(./fonts/GreycliffCF-Bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'GreycliffCF-DemiBold';
+  src: local('GreycliffCF-DemiBold'), url(./fonts/GreycliffCF-DemiBold.woff2) format('woff2');
+  src: local('GreycliffCF-DemiBold'), url(./fonts/GreycliffCF-DemiBold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'GreycliffCF-Medium';
+  src: local('GreycliffCF-Medium'), url(./fonts/GreycliffCF-Medium.woff2) format('woff2');
+  src: local('GreycliffCF-Medium'), url(./fonts/GreycliffCF-Medium.woff) format('woff');
+}
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  /* Colors */
+  --dark-text: #383838;
+  --grey-4: #e2e6ed;
+  --grey-5: #d8dde6;
+  --grey-6: #aeb8cc;
+  --grey-7: #99a6bf;
+  --grey-8: #7a8aac;
+  --grey-10: #3d4961;
+  --grey-11: #aeb8cc;
+  --grey-15: #d9d9d9;
+
+  --darkblue-5: #3c81ed;
+  --darkblue-6: #0252cd;
+  --blue-1: #3c81ed;
+
+  --green-6: #0ba968;
+
+  --mobile-elevation-1: 0px 1.41843vw 5.67375vw rgba(0, 0, 0, 0.15);
+  --mobile-elevation-2: 0px 2.83687vw 8.51063vw rgba(0, 0, 0, 0.15);
+  --web-elevation-1: 0px 0.13888vw 0.55555vw rgba(0, 0, 0, 0.15);
+  --web-elevation-2: 0px 0.27777vw 0.83333vw rgba(0, 0, 0, 0.15);
+
+  --web-margin: 4.44444vw;
+  --mobile-margin: 4.83091vw;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+body {
+  font-family: greycliffcf-medium;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: greycliffcf-bold;
+}
+
+p {
+  color: var(--grey-10);
+}
+
+.web-container {
+  margin: 0 var(--web-margin) 0;
+}
+
+.mobile-container {
+  margin: var(--mobile-margin) var(--mobile-margin) 0;
+}
+
+.semi-transparent-info {
+  opacity: 0.85 !important;
+}
+
+#mGIS-iframe {
+  width: 100%;
+  height: 617px;
+  margin: 5.714285vw 0;
+}
+
+.ant-table-measure-row {
+  visibility: collapse;
+}
+
+.no-demand,
+.no-supply {
+  color: var(--grey-5);
+}

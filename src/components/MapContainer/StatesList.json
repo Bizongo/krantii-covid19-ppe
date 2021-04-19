@@ -1,0 +1,298 @@
+[
+  {
+    "key": "ANDAMAN AND NICOBAR ISLANDS",
+    "label": "Andaman and Nicobar Islands",
+    "minLat": 6.756039,
+    "minLong": 92.207494,
+    "maxLat": 13.675328,
+    "maxLong": 94.278015
+  },
+  {
+    "key": "ANDHRA PRADESH",
+    "label": "Andhra Pradesh",
+    "minLat": 12.624183,
+    "minLong": 76.760198,
+    "maxLat": 19.168934,
+    "maxLong": 84.768075
+  },
+  {
+    "key": "ARUNACHAL PRADESH",
+    "label": "Arunachal Pradesh",
+    "minLat": 26.647208,
+    "minLong": 91.558899,
+    "maxLat": 29.441431,
+    "maxLong": 97.411443
+  },
+  {
+    "key": "ASSAM",
+    "label": "Assam",
+    "minLat": 24.156349,
+    "minLong": 89.708892,
+    "maxLat": 27.95512,
+    "maxLong": 96.000061
+  },
+  {
+    "key": "BIHAR",
+    "label": "Bihar",
+    "minLat": 24.259132,
+    "minLong": 83.323479,
+    "maxLat": 27.521082,
+    "maxLong": 88.278468
+  },
+  {
+    "key": "CHANDIGARH",
+    "label": "Chandigarh",
+    "minLat": 30.667079,
+    "minLong": 76.704402,
+    "maxLat": 30.7951,
+    "maxLong": 76.84904
+  },
+  {
+    "key": "CHHATTISGARH",
+    "label": "Chhattisgarh",
+    "minLat": 17.782456,
+    "minLong": 80.24414,
+    "maxLat": 24.106221,
+    "maxLong": 84.396311
+  },
+  {
+    "key": "DADRA AND NAGAR HAVELI",
+    "label": "Dadra and Nagar Haveli",
+    "minLat": 20.033649,
+    "minLong": 70.871165,
+    "maxLat": 20.756105,
+    "maxLong": 73.212366
+  },
+  {
+    "key": "DAMAN AND DIU",
+    "label": "Daman and Diu",
+    "minLat": 70.871165,
+    "minLong": 20.033649,
+    "maxLat": 73.212366,
+    "maxLong": 20.756105
+  },
+  {
+    "key": "DELHI",
+    "label": "Delhi",
+    "minLat": 28.404263,
+    "minLong": 76.838855,
+    "maxLat": 28.883588,
+    "maxLong": 77.347105
+  },
+  {
+    "key": "GOA",
+    "label": "Goa",
+    "minLat": 14.901261,
+    "minLong": 73.675059,
+    "maxLat": 15.800738,
+    "maxLong": 74.335323
+  },
+  {
+    "key": "GUJARAT",
+    "label": "Gujarat",
+    "minLat": 20.10533,
+    "minLong": 68.135701,
+    "maxLat": 24.712647,
+    "maxLong": 74.476587
+  },
+  {
+    "key": "HARYANA",
+    "label": "Haryana",
+    "minLat": 27.652566,
+    "minLong": 74.470759,
+    "maxLat": 30.929336,
+    "maxLong": 77.604045
+  },
+  {
+    "key": "HIMACHAL PRADESH",
+    "label": "Himachal Pradesh",
+    "minLat": 30.377521,
+    "minLong": 75.593353,
+    "maxLat": 33.265311,
+    "maxLong": 79.003229
+  },
+  {
+    "key": "JAMMU AND KASHMIR",
+    "label": "Jammu And Kashmir",
+    "minLat": 32.272218,
+    "minLong": 73.394353,
+    "maxLat": 35.079322,
+    "maxLong": 76.796264
+  },
+  {
+    "key": "JHARKHAND",
+    "label": "Jharkhand",
+    "minLat": 21.970158,
+    "minLong": 83.329329,
+    "maxLat": 25.34407,
+    "maxLong": 87.915946
+  },
+  {
+    "key": "KARNATAKA",
+    "label": "Karnataka",
+    "minLat": 11.594438,
+    "minLong": 74.054661,
+    "maxLat": 18.477898,
+    "maxLong": 78.587751
+  },
+  {
+    "key": "KERALA",
+    "label": "Kerala",
+    "minLat": 8.293354,
+    "minLong": 74.864288,
+    "maxLat": 12.795745,
+    "maxLong": 77.412183
+  },
+  {
+    "key": "LADAKH",
+    "label": "Ladakh",
+    "minLat": 32.361934,
+    "minLong": 72.503024,
+    "maxLat": 37.087766,
+    "maxLong": 80.345767
+  },
+  {
+    "key": "LAKSHADWEEP",
+    "label": "Lakshadweep",
+    "minLat": 8.265576,
+    "minLong": 72.130267,
+    "maxLat": 11.709541,
+    "maxLong": 73.70284896
+  },
+  {
+    "key": "MADHYA PRADESH",
+    "label": "Madhya Pradesh",
+    "minLat": 21.070703,
+    "minLong": 74.029362,
+    "maxLat": 26.869071,
+    "maxLong": 82.812321
+  },
+  {
+    "key": "MAHARASHTRA",
+    "label": "Maharashtra",
+    "minLat": 15.606325,
+    "minLong": 72.650441,
+    "maxLat": 22.030307,
+    "maxLong": 80.896413
+  },
+  {
+    "key": "MANIPUR",
+    "label": "Manipur",
+    "minLat": 23.838869,
+    "minLong": 92.98315,
+    "maxLat": 25.688796,
+    "maxLong": 94.728313
+  },
+  {
+    "key": "MEGHALAYA",
+    "label": "Meghalaya",
+    "minLat": 25.025749,
+    "minLong": 89.815914,
+    "maxLat": 26.119548,
+    "maxLong": 92.798569
+  },
+  {
+    "key": "MIZORAM",
+    "label": "Mizoram",
+    "minLat": 21.9555,
+    "minLong": 92.257575,
+    "maxLat": 24.532965,
+    "maxLong": 93.431147
+  },
+  {
+    "key": "NAGALAND",
+    "label": "Nagaland",
+    "minLat": 25.206028,
+    "minLong": 93.330375,
+    "maxLat": 27.027762,
+    "maxLong": 95.238064
+  },
+  {
+    "key": "ODISHA",
+    "label": "Odisha",
+    "minLat": 17.81421,
+    "minLong": 81.389115,
+    "maxLat": 22.56778,
+    "maxLong": 87.48538
+  },
+  {
+    "key": "PUDUCHERRY",
+    "label": "Puducherry",
+    "minLat": 10.827901,
+    "minLong": 75.526311,
+    "maxLat": 16.761665,
+    "maxLong": 82.312192
+  },
+  {
+    "key": "PUNJAB",
+    "label": "Punjab",
+    "minLat": 29.543171,
+    "minLong": 73.882262,
+    "maxLat": 32.504755,
+    "maxLong": 76.941678
+  },
+  {
+    "key": "RAJASTHAN",
+    "label": "Rajasthan",
+    "minLat": 23.059048,
+    "minLong": 69.485844,
+    "maxLat": 30.184986,
+    "maxLong": 78.272167
+  },
+  {
+    "key": "SIKKIM",
+    "label": "Sikkim",
+    "minLat": 27.080111,
+    "minLong": 88.037956,
+    "maxLat": 28.098298,
+    "maxLong": 88.93963
+  },
+  {
+    "key": "TAMIL NADU",
+    "label": "Tamil Nadu",
+    "minLat": 8.074518,
+    "minLong": 76.244823,
+    "maxLat": 13.572499,
+    "maxLong": 80.353077
+  },
+  {
+    "key": "TELANGANA",
+    "label": "Telangana",
+    "minLat": 15.83652,
+    "minLong": 77.23548,
+    "maxLat": 19.917375,
+    "maxLong": 81.323083
+  },
+  {
+    "key": "TRIPURA",
+    "label": "Tripura",
+    "minLat": 22.93756,
+    "minLong": 91.150789,
+    "maxLat": 24.530918,
+    "maxLong": 92.330454
+  },
+  {
+    "key": "UTTAR PRADESH",
+    "label": "Uttar Pradesh",
+    "minLat": 23.87042,
+    "minLong": 77.092869,
+    "maxLat": 30.406273,
+    "maxLong": 84.634548
+  },
+  {
+    "key": "UTTARAKHAND",
+    "label": "Uttarakhand",
+    "minLat": 28.738906,
+    "minLong": 77.573166,
+    "maxLat": 31.453081,
+    "maxLong": 81.032205
+  },
+  {
+    "key": "WEST BENGAL",
+    "label": "West Bengal",
+    "minLat": 21.543046,
+    "minLong": 85.819755,
+    "maxLat": 27.255423,
+    "maxLong": 89.887306
+  }
+]
